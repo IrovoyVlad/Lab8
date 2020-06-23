@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <test>
+    <name>Akop</name>
+    <raiting>5000</raiting>
+  </test>
+  <test>
+    <name>Azat Mardan</name>
+    <raiting>200</raiting>
+  </test>
+  <test>
+    <name>Izuf Amir</name>
+    <raiting>300</raiting>
+  </test>
+</NewDataSet>
